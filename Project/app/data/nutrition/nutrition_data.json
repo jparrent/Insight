@@ -1,0 +1,5003 @@
+{
+    "'lamb": [
+        "vegan",
+        "vegetarian"
+    ],
+    "**cornbread": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "*anchovies": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "*chicken": [
+        "vegan",
+        "vegetarian"
+    ],
+    "*hamachi": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "*oyster": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "*rye": [
+        "gluten"
+    ],
+    "*salmon": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "*shrimp": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "*tuna": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "*wheat": [
+        "gluten",
+        "wheat"
+    ],
+    "abalone": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "achar": [
+        "mustard"
+    ],
+    "acorn": [
+        "tree nuts"
+    ],
+    "agnolotti": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "ahi": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "aioli": [
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "aiolis": [
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "albacore": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "ale": [
+        "gluten",
+        "wheat"
+    ],
+    "ales": [
+        "gluten",
+        "wheat"
+    ],
+    "alfabeto": [
+        "gluten",
+        "wheat"
+    ],
+    "almond": [
+        "tree nuts"
+    ],
+    "almonds": [
+        "tree nuts"
+    ],
+    "alphabet": [
+        "gluten",
+        "wheat"
+    ],
+    "amberjack": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "anago": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "anchovies": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "anchovy": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "andouille": [
+        "vegan",
+        "vegetarian"
+    ],
+    "anejo": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "anelli": [
+        "gluten",
+        "wheat"
+    ],
+    "anellini": [
+        "gluten",
+        "wheat"
+    ],
+    "antelope": [
+        "vegan",
+        "vegetarian"
+    ],
+    "appenzell": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "appenzeller": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "atta": [
+        "gluten",
+        "wheat"
+    ],
+    "baati": [
+        "gluten",
+        "wheat"
+    ],
+    "babka": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "babkas": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "baccala": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "bacon": [
+        "vegan",
+        "vegetarian"
+    ],
+    "bacon*": [
+        "vegan",
+        "vegetarian"
+    ],
+    "bacons": [
+        "vegan",
+        "vegetarian"
+    ],
+    "badam": [
+        "tree nuts"
+    ],
+    "bagel": [
+        "gluten",
+        "wheat"
+    ],
+    "bagels": [
+        "gluten",
+        "wheat"
+    ],
+    "baguette": [
+        "gluten",
+        "wheat"
+    ],
+    "baguettes": [
+        "gluten",
+        "wheat"
+    ],
+    "baklava": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "tree nuts",
+        "vegan"
+    ],
+    "baklavas": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "tree nuts",
+        "vegan"
+    ],
+    "bannock": [
+        "gluten",
+        "wheat",
+        "vegan",
+        "vegetarian"
+    ],
+    "barbina": [
+        "gluten",
+        "wheat"
+    ],
+    "barley": [
+        "gluten"
+    ],
+    "barramundi": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "basa": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "bass": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "batard": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "batards": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "bavette": [
+        "gluten",
+        "wheat"
+    ],
+    "bavettine": [
+        "gluten",
+        "wheat"
+    ],
+    "beans*chicken": [
+        "vegan",
+        "vegetarian"
+    ],
+    "bear": [
+        "vegan",
+        "vegetarian"
+    ],
+    "bears": [
+        "vegan",
+        "vegetarian"
+    ],
+    "beaufort": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "beaver": [
+        "vegan",
+        "vegetarian"
+    ],
+    "beavers": [
+        "vegan",
+        "vegetarian"
+    ],
+    "beef": [
+        "vegan",
+        "vegetarian"
+    ],
+    "beef'": [
+        "vegan",
+        "vegetarian"
+    ],
+    "beefs": [
+        "vegan",
+        "vegetarian"
+    ],
+    "beefsteak": [
+        "vegan",
+        "vegetarian"
+    ],
+    "beer": [
+        "gluten",
+        "wheat"
+    ],
+    "beers": [
+        "gluten",
+        "wheat"
+    ],
+    "bhatmas": [
+        "soy"
+    ],
+    "biscotti": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "biscuit": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "biscuits": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "bison": [
+        "vegan",
+        "vegetarian"
+    ],
+    "blini": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "blinis": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "bluefish": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "boar": [
+        "vegan",
+        "vegetarian"
+    ],
+    "boars": [
+        "vegan",
+        "vegetarian"
+    ],
+    "bocconcini": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "bollilo": [
+        "gluten",
+        "wheat"
+    ],
+    "bologna": [
+        "vegan",
+        "vegetarian"
+    ],
+    "bonito": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "bouillon": [
+        "gluten",
+        "wheat",
+        "vegan",
+        "vegetarian"
+    ],
+    "boule": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "bowtie": [
+        "gluten",
+        "wheat"
+    ],
+    "bowties": [
+        "gluten",
+        "wheat"
+    ],
+    "branzini": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "branzino": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "bratwurst": [
+        "vegan",
+        "vegetarian"
+    ],
+    "bratwursts": [
+        "vegan",
+        "vegetarian"
+    ],
+    "bread": [
+        "gluten",
+        "wheat"
+    ],
+    "bread**sandwich": [
+        "gluten",
+        "wheat"
+    ],
+    "breadcrumb": [
+        "gluten",
+        "wheat"
+    ],
+    "breadcrumbs": [
+        "gluten",
+        "wheat"
+    ],
+    "breads": [
+        "gluten",
+        "wheat"
+    ],
+    "breadstick": [
+        "gluten",
+        "wheat"
+    ],
+    "breadsticks": [
+        "gluten",
+        "wheat"
+    ],
+    "bream": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "bred": [
+        "gluten",
+        "wheat"
+    ],
+    "bresaola": [
+        "vegan",
+        "vegetarian"
+    ],
+    "brie": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "brill": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "brioche": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "vegan"
+    ],
+    "brisket": [
+        "vegan",
+        "vegetarian"
+    ],
+    "briskets": [
+        "vegan",
+        "vegetarian"
+    ],
+    "broiler": [
+        "vegan",
+        "vegetarian"
+    ],
+    "bronzini": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "brownie": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "brownies": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "bucantini": [
+        "gluten",
+        "wheat"
+    ],
+    "bucatini": [
+        "gluten",
+        "wheat"
+    ],
+    "buffalo": [
+        "vegan",
+        "vegetarian"
+    ],
+    "bulgar": [
+        "gluten",
+        "wheat"
+    ],
+    "bulghar": [
+        "gluten",
+        "wheat"
+    ],
+    "bulghur": [
+        "gluten",
+        "wheat"
+    ],
+    "bulgur": [
+        "gluten",
+        "wheat"
+    ],
+    "bun": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "buns": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "burghul": [
+        "gluten",
+        "wheat"
+    ],
+    "burrata": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "burrito": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "burritos": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "butter": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "butterfish": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "buttermilk": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "butters": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "butterscotch": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "cabrales": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "cajeta": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "calamarata": [
+        "gluten",
+        "wheat"
+    ],
+    "calamaretti": [
+        "gluten",
+        "wheat"
+    ],
+    "calamari": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "calamaris": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "cambozola": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "camembert": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "campanelle": [
+        "gluten",
+        "wheat"
+    ],
+    "cannelloni": [
+        "gluten",
+        "wheat"
+    ],
+    "cannellonis": [
+        "gluten",
+        "wheat"
+    ],
+    "capellini": [
+        "gluten",
+        "wheat"
+    ],
+    "capon": [
+        "vegan",
+        "vegetarian"
+    ],
+    "cappellini": [
+        "gluten",
+        "wheat"
+    ],
+    "capunti": [
+        "gluten",
+        "wheat"
+    ],
+    "caribou": [
+        "vegan",
+        "vegetarian"
+    ],
+    "carob": [
+        "gluten"
+    ],
+    "carp": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "casarecce": [
+        "gluten",
+        "wheat"
+    ],
+    "cashew": [
+        "tree nuts"
+    ],
+    "cashews": [
+        "tree nuts"
+    ],
+    "cashews*": [
+        "tree nuts"
+    ],
+    "catfish": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "cavatappi": [
+        "gluten",
+        "wheat"
+    ],
+    "cavatelli": [
+        "gluten",
+        "wheat"
+    ],
+    "caviar": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "caviars": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "cellentani": [
+        "gluten",
+        "wheat"
+    ],
+    "cencioni": [
+        "gluten",
+        "wheat"
+    ],
+    "cereal": [
+        "gluten",
+        "wheat"
+    ],
+    "cereals": [
+        "gluten",
+        "wheat"
+    ],
+    "chaa": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "chaas": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "challah": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "vegan"
+    ],
+    "challahs": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "vegan"
+    ],
+    "chapati": [
+        "gluten",
+        "wheat"
+    ],
+    "chapatis": [
+        "gluten",
+        "wheat"
+    ],
+    "charcuterie": [
+        "vegan",
+        "vegetarian"
+    ],
+    "chardonnay": [
+        "vegan",
+        "vegetarian"
+    ],
+    "chardonnays": [
+        "vegan",
+        "vegetarian"
+    ],
+    "cheddar": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "cheddar*": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "cheddars": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "cheerios": [
+        "gluten",
+        "wheat"
+    ],
+    "cheese": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "cheese'": [
+        "vegan"
+    ],
+    "cheese*": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "cheeseburger": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan",
+        "vegetarian"
+    ],
+    "cheeseburgers": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan",
+        "vegetarian"
+    ],
+    "cheesecake": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "cheesecakes": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "cheeses": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "cheetos": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "chenna": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "chermoula": [
+        "milk",
+        "tree nuts",
+        "vegan"
+    ],
+    "cherrystone": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "cheshire": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "chestnut": [
+        "tree nuts"
+    ],
+    "chestnuts": [
+        "tree nuts"
+    ],
+    "chevre": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "chicken": [
+        "vegan",
+        "vegetarian"
+    ],
+    "chicken'": [
+        "vegan",
+        "vegetarian"
+    ],
+    "chickens": [
+        "vegan",
+        "vegetarian"
+    ],
+    "chifferi": [
+        "gluten",
+        "wheat"
+    ],
+    "chipolata": [
+        "vegan",
+        "vegetarian"
+    ],
+    "chipolatas": [
+        "vegan",
+        "vegetarian"
+    ],
+    "chorizo": [
+        "vegan",
+        "vegetarian"
+    ],
+    "chorizos": [
+        "vegan",
+        "vegetarian"
+    ],
+    "chuck": [
+        "vegan",
+        "vegetarian"
+    ],
+    "chucks": [
+        "vegan",
+        "vegetarian"
+    ],
+    "chura": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "ciabatta": [
+        "gluten",
+        "wheat"
+    ],
+    "ciliegine": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "ciriole": [
+        "gluten",
+        "wheat"
+    ],
+    "cisco": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "clam": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "clamato": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "clams": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "cockle": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "cockles": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "cod": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "codfish": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "cods": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "coffeecake": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "cokes": [
+        "gluten",
+        "wheat"
+    ],
+    "colas": [
+        "gluten",
+        "wheat"
+    ],
+    "colby": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "colby-jack": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "coleslaw": [
+        "eggs",
+        "vegan"
+    ],
+    "comte": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "comtes": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "conch": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "conchiglie": [
+        "gluten",
+        "wheat"
+    ],
+    "conchigliette": [
+        "gluten",
+        "wheat"
+    ],
+    "conchiglioni": [
+        "gluten",
+        "wheat"
+    ],
+    "cone": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "vegan"
+    ],
+    "cones": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "vegan"
+    ],
+    "conger": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "cookie": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "cookies": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "corallini": [
+        "gluten",
+        "wheat"
+    ],
+    "cornbread": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "cornflake": [
+        "gluten"
+    ],
+    "cornflakes": [
+        "gluten"
+    ],
+    "cornichon": [
+        "mustard"
+    ],
+    "cornichons": [
+        "mustard"
+    ],
+    "corzetti": [
+        "gluten",
+        "wheat"
+    ],
+    "cotija": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "couscous": [
+        "gluten",
+        "wheat"
+    ],
+    "crab": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "crab''": [
+        "shellfish"
+    ],
+    "crab*": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "crabmeat": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "crabmeats": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "crabs": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "cracker": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "crackers": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "crawfish": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "crayfish": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "cream": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "creams": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "creamsicle": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "crema": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "crepe": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "crepes": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "crisps": [
+        "gluten",
+        "vegan"
+    ],
+    "crispy''crab''": [
+        "shellfish"
+    ],
+    "croaker": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "croissant": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "croissants": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "crostini": [
+        "gluten",
+        "wheat"
+    ],
+    "crostinis": [
+        "gluten",
+        "wheat"
+    ],
+    "crouton": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "croutons": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "croxetti": [
+        "gluten",
+        "wheat"
+    ],
+    "crumpet": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "crumpets": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "crust": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "crusts": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "cupcake": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "cupcakes": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "curd": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "custard": [
+        "dairy",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "custards": [
+        "dairy",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "cuttlefish": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "dahi": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "dalia": [
+        "gluten",
+        "wheat"
+    ],
+    "danish": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "danishes": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "dashi": [
+        "vegan",
+        "vegetarian"
+    ],
+    "deer": [
+        "vegan",
+        "vegetarian"
+    ],
+    "demiglace": [
+        "vegan",
+        "vegetarian"
+    ],
+    "dijon": [
+        "mustard"
+    ],
+    "disco": [
+        "wheat",
+        "eggs"
+    ],
+    "ditali": [
+        "gluten",
+        "wheat"
+    ],
+    "ditalini": [
+        "gluten",
+        "wheat"
+    ],
+    "donut": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "soy",
+        "vegan"
+    ],
+    "donuts": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "soy",
+        "vegan"
+    ],
+    "dorada": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "doradas": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "dorade": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "dosa": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "dough": [
+        "gluten",
+        "wheat"
+    ],
+    "doughnut": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "soy",
+        "vegan"
+    ],
+    "doughnuts": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "soy",
+        "vegan"
+    ],
+    "drum": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "drumette": [
+        "vegan",
+        "vegetarian"
+    ],
+    "drumettes": [
+        "vegan",
+        "vegetarian"
+    ],
+    "drummettes": [
+        "vegan",
+        "vegetarian"
+    ],
+    "drums": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "drumstick": [
+        "vegan",
+        "vegetarian"
+    ],
+    "drumsticks": [
+        "vegan",
+        "vegetarian"
+    ],
+    "duck": [
+        "vegan",
+        "vegetarian"
+    ],
+    "duckling": [
+        "vegan",
+        "vegetarian"
+    ],
+    "ducks": [
+        "vegan",
+        "vegetarian"
+    ],
+    "durum": [
+        "gluten",
+        "wheat"
+    ],
+    "eclair": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "eclairs": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "edam": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "edamame": [
+        "soy"
+    ],
+    "eel": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "eels": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "eggs": [
+        "eggs",
+        "vegan"
+    ],
+    "eggs'": [
+        "eggs",
+        "vegan"
+    ],
+    "eggs*": [
+        "eggs",
+        "vegan"
+    ],
+    "eggsnog": [
+        "dairy",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "eggss": [
+        "eggs",
+        "vegan"
+    ],
+    "eggss*": [
+        "eggs",
+        "vegan"
+    ],
+    "elbow": [
+        "gluten",
+        "wheat"
+    ],
+    "elbows": [
+        "gluten",
+        "wheat"
+    ],
+    "elicoidali": [
+        "gluten",
+        "wheat"
+    ],
+    "elk": [
+        "vegan",
+        "vegetarian"
+    ],
+    "emmental": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "emmentaler": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "emmenthal": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "emmenthaler": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "empanada": [
+        "gluten",
+        "wheat",
+        "vegan",
+        "vegetarian"
+    ],
+    "empanadas": [
+        "gluten",
+        "wheat",
+        "vegan",
+        "vegetarian"
+    ],
+    "ensure": [
+        "soy",
+        "vegan"
+    ],
+    "ensures": [
+        "soy",
+        "vegan"
+    ],
+    "escargot": [
+        "fish",
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "escargots": [
+        "fish",
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "fagioloni": [
+        "gluten",
+        "wheat"
+    ],
+    "falernum": [
+        "tree nuts"
+    ],
+    "farfalle": [
+        "gluten",
+        "wheat"
+    ],
+    "farfalline": [
+        "gluten",
+        "wheat"
+    ],
+    "farfalloni": [
+        "gluten",
+        "wheat"
+    ],
+    "farina": [
+        "gluten",
+        "wheat"
+    ],
+    "farmer cheese": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "faro": [
+        "gluten",
+        "wheat"
+    ],
+    "farro": [
+        "gluten",
+        "wheat"
+    ],
+    "fatback": [
+        "vegan",
+        "vegetarian"
+    ],
+    "fedelini": [
+        "gluten",
+        "wheat"
+    ],
+    "feta": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "fettuccine": [
+        "gluten",
+        "wheat"
+    ],
+    "fettuccini": [
+        "gluten",
+        "wheat"
+    ],
+    "fettuce": [
+        "gluten",
+        "wheat"
+    ],
+    "fettucelle": [
+        "gluten",
+        "wheat"
+    ],
+    "fettucine": [
+        "gluten",
+        "wheat"
+    ],
+    "fettucini": [
+        "gluten",
+        "wheat"
+    ],
+    "fetuccini": [
+        "gluten",
+        "wheat"
+    ],
+    "fideo": [
+        "gluten",
+        "wheat"
+    ],
+    "fideos": [
+        "gluten",
+        "wheat"
+    ],
+    "filberts": [
+        "tree nuts"
+    ],
+    "filini": [
+        "gluten",
+        "wheat"
+    ],
+    "fillo": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "filo": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "fiorentine": [
+        "gluten",
+        "wheat"
+    ],
+    "fiori": [
+        "gluten",
+        "wheat"
+    ],
+    "fish": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "fish'": [
+        "vegan",
+        "vegetarian"
+    ],
+    "fishes": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "flan": [
+        "dairy",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "flank": [
+        "vegan",
+        "vegetarian"
+    ],
+    "flanken": [
+        "vegan",
+        "vegetarian"
+    ],
+    "flanks": [
+        "vegan",
+        "vegetarian"
+    ],
+    "flans": [
+        "dairy",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "flatbread": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "flatbreads": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "flatfish": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "flatiron": [
+        "vegan",
+        "vegetarian"
+    ],
+    "flatirons": [
+        "vegan",
+        "vegetarian"
+    ],
+    "flounder": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "flour": [
+        "gluten",
+        "wheat"
+    ],
+    "flours": [
+        "gluten",
+        "wheat"
+    ],
+    "fluke": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "focaccia": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "fondant": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "fontina": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "frankfurter": [
+        "vegan",
+        "vegetarian"
+    ],
+    "frankfurters": [
+        "vegan",
+        "vegetarian"
+    ],
+    "freekah": [
+        "gluten",
+        "wheat"
+    ],
+    "fregola": [
+        "gluten",
+        "wheat"
+    ],
+    "fregula": [
+        "gluten",
+        "wheat"
+    ],
+    "frosting": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "frostings": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "fruitcake": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "fruitcakes": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "fryer": [
+        "vegan",
+        "vegetarian"
+    ],
+    "fryers": [
+        "vegan",
+        "vegetarian"
+    ],
+    "funghini": [
+        "gluten",
+        "wheat"
+    ],
+    "fusilli": [
+        "gluten",
+        "wheat"
+    ],
+    "gai": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "peanuts",
+        "tree nuts",
+        "soy",
+        "fish",
+        "shellfish",
+        "mustard",
+        "sesame",
+        "lupine",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "gammon": [
+        "vegan",
+        "vegetarian"
+    ],
+    "ganache": [
+        "dairy",
+        "milk",
+        "soy",
+        "vegan"
+    ],
+    "garganelli": [
+        "gluten",
+        "wheat"
+    ],
+    "gelatin": [
+        "vegan",
+        "vegetarian"
+    ],
+    "gemelli": [
+        "gluten",
+        "wheat"
+    ],
+    "ghee": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "gherkin": [
+        "mustard"
+    ],
+    "gherkins": [
+        "mustard"
+    ],
+    "giblet": [
+        "vegan",
+        "vegetarian"
+    ],
+    "giblets": [
+        "vegan",
+        "vegetarian"
+    ],
+    "gigli": [
+        "gluten",
+        "wheat"
+    ],
+    "gin": [
+        "gluten"
+    ],
+    "gingerbread": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "gingersnap": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "soy",
+        "vegan"
+    ],
+    "ginkgos": [
+        "tree nuts"
+    ],
+    "ginko": [
+        "tree nuts"
+    ],
+    "gins": [
+        "gluten"
+    ],
+    "gizzard": [
+        "vegan",
+        "vegetarian"
+    ],
+    "gizzards": [
+        "vegan",
+        "vegetarian"
+    ],
+    "gjetost": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "gloucester": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "gnocchi": [
+        "gluten",
+        "wheat"
+    ],
+    "gnocchis": [
+        "gluten",
+        "wheat"
+    ],
+    "goat": [
+        "vegan",
+        "vegetarian"
+    ],
+    "goats": [
+        "vegan",
+        "vegetarian"
+    ],
+    "gochujang": [
+        "soy"
+    ],
+    "goldfish": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "gomito": [
+        "gluten",
+        "wheat"
+    ],
+    "goose": [
+        "vegan",
+        "vegetarian"
+    ],
+    "gorgonzola": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "gouda": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "graham": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "grahams": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "gramigna": [
+        "gluten",
+        "wheat"
+    ],
+    "grana": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "grenadine": [
+        "tree nuts"
+    ],
+    "grissini": [
+        "gluten",
+        "wheat"
+    ],
+    "grouper": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "gruyere": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "guanciale": [
+        "vegan",
+        "vegetarian"
+    ],
+    "guinnes": [
+        "gluten",
+        "wheat"
+    ],
+    "haddock": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "hake": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "hakes": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "halibut": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "halloumi": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "haloumi": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "ham": [
+        "vegan",
+        "vegetarian"
+    ],
+    "ham*": [
+        "vegan",
+        "vegetarian"
+    ],
+    "hamachi": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "hamburger": [
+        "vegan",
+        "vegetarian"
+    ],
+    "hamburgers": [
+        "vegan",
+        "vegetarian"
+    ],
+    "hams": [
+        "vegan",
+        "vegetarian"
+    ],
+    "harvarti": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "havarti": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "hazelnut": [
+        "tree nuts"
+    ],
+    "hazelnuts": [
+        "tree nuts"
+    ],
+    "headcheese": [
+        "vegan",
+        "vegetarian"
+    ],
+    "hen": [
+        "vegan",
+        "vegetarian"
+    ],
+    "hens": [
+        "vegan",
+        "vegetarian"
+    ],
+    "herring": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "horse": [
+        "vegan",
+        "vegetarian"
+    ],
+    "horses": [
+        "vegan",
+        "vegetarian"
+    ],
+    "hotdog": [
+        "vegan",
+        "vegetarian"
+    ],
+    "hotdogs": [
+        "vegan",
+        "vegetarian"
+    ],
+    "hushpuppies": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "hushpuppy": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "icing": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "icings": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "idli": [
+        "milk"
+    ],
+    "ipa": [
+        "gluten",
+        "wheat"
+    ],
+    "jamon": [
+        "vegan",
+        "vegetarian"
+    ],
+    "jarlsberg": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "jaun": [
+        "gluten"
+    ],
+    "jello": [
+        "vegan",
+        "vegetarian"
+    ],
+    "jellybean": [
+        "vegan",
+        "vegetarian"
+    ],
+    "jerky": [
+        "vegan",
+        "vegetarian"
+    ],
+    "kahlua": [
+        "gluten"
+    ],
+    "kaju": [
+        "tree nuts"
+    ],
+    "kamut": [
+        "gluten",
+        "wheat"
+    ],
+    "karimeen": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "kasseri": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "kefalotyri": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "kefir": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "kheer": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "kielbasa": [
+        "dairy",
+        "milk",
+        "vegan",
+        "vegetarian"
+    ],
+    "kipper": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "kippers": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "knish": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "knishes": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "kochujang": [
+        "soy"
+    ],
+    "kodi": [
+        "vegan",
+        "vegetarian"
+    ],
+    "kozhi": [
+        "vegan",
+        "vegetarian"
+    ],
+    "kulcha": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "kulchas": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "labne": [
+        "dairy",
+        "milk",
+        "tree nuts",
+        "vegan"
+    ],
+    "labneh": [
+        "dairy",
+        "milk",
+        "tree nuts",
+        "vegan"
+    ],
+    "ladyfinger": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "vegan"
+    ],
+    "ladyfingers": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "vegan"
+    ],
+    "lagane": [
+        "gluten",
+        "wheat"
+    ],
+    "lager": [
+        "gluten",
+        "wheat"
+    ],
+    "lagers": [
+        "gluten",
+        "wheat"
+    ],
+    "lahvosh": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "lamb": [
+        "vegan",
+        "vegetarian"
+    ],
+    "lambic": [
+        "gluten",
+        "wheat"
+    ],
+    "lambs": [
+        "vegan",
+        "vegetarian"
+    ],
+    "lanterne": [
+        "gluten",
+        "wheat"
+    ],
+    "lard": [
+        "vegan",
+        "vegetarian"
+    ],
+    "lasagna": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan",
+        "vegetarian"
+    ],
+    "lasagnas": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan",
+        "vegetarian"
+    ],
+    "lasagne": [
+        "gluten",
+        "wheat"
+    ],
+    "lasagnes": [
+        "gluten",
+        "wheat"
+    ],
+    "lasagnette": [
+        "gluten",
+        "wheat"
+    ],
+    "lasagnotte": [
+        "gluten",
+        "wheat"
+    ],
+    "lassi": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "peanuts",
+        "tree nuts",
+        "soy",
+        "fish",
+        "shellfish",
+        "mustard",
+        "sesame",
+        "lupine",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "lassis": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "peanuts",
+        "tree nuts",
+        "soy",
+        "fish",
+        "shellfish",
+        "mustard",
+        "sesame",
+        "lupine",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "latke": [
+        "dairy",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "latkes": [
+        "dairy",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "lavash": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "lebni": [
+        "dairy",
+        "milk",
+        "tree nuts",
+        "vegan"
+    ],
+    "leyden": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "licorice": [
+        "gluten",
+        "wheat"
+    ],
+    "limburger": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "ling": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "lingcod": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "lings": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "linguettine": [
+        "gluten",
+        "wheat"
+    ],
+    "linguine": [
+        "gluten",
+        "wheat"
+    ],
+    "linguini": [
+        "gluten",
+        "wheat"
+    ],
+    "littleneck": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "littlenecks": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "loaf": [
+        "gluten",
+        "wheat"
+    ],
+    "loafs": [
+        "gluten",
+        "wheat"
+    ],
+    "loaves": [
+        "gluten",
+        "wheat"
+    ],
+    "lobster": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "lobsters": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "lox": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "lumache": [
+        "gluten",
+        "wheat"
+    ],
+    "lumaconi": [
+        "gluten",
+        "wheat"
+    ],
+    "lupin": [
+        "lupine"
+    ],
+    "macadamia": [
+        "tree nuts"
+    ],
+    "macadamias": [
+        "tree nuts"
+    ],
+    "macaron": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "vegan"
+    ],
+    "macaroni": [
+        "gluten",
+        "wheat"
+    ],
+    "macaronis": [
+        "gluten",
+        "wheat"
+    ],
+    "macarons": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "vegan"
+    ],
+    "macaroon": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "vegan"
+    ],
+    "macaroons": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "vegan"
+    ],
+    "maccheroncelli": [
+        "gluten",
+        "wheat"
+    ],
+    "machli": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "mackerel": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "mackerels": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "mafalde": [
+        "gluten",
+        "wheat"
+    ],
+    "mafaldine": [
+        "gluten",
+        "wheat"
+    ],
+    "magret": [
+        "vegan",
+        "vegetarian"
+    ],
+    "mahi": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "mahimahi": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "maida": [
+        "gluten",
+        "wheat"
+    ],
+    "malai": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "mallomar": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "maltagliati": [
+        "gluten",
+        "wheat"
+    ],
+    "manchego": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "mandala": [
+        "gluten",
+        "wheat"
+    ],
+    "manicotti": [
+        "gluten",
+        "wheat"
+    ],
+    "manteca": [
+        "vegan",
+        "vegetarian"
+    ],
+    "margarine": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "marille": [
+        "gluten",
+        "wheat"
+    ],
+    "marrow": [
+        "vegan",
+        "vegetarian"
+    ],
+    "marscapone": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "marshmallow": [
+        "vegan",
+        "vegetarian"
+    ],
+    "marshmallows": [
+        "vegan",
+        "vegetarian"
+    ],
+    "marziani": [
+        "gluten",
+        "wheat"
+    ],
+    "marzipan": [
+        "tree nuts"
+    ],
+    "mascarpone": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "matzo": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "matzoh": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "mayo": [
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "mayonaise": [
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "mayonaisse": [
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "mayonnaise": [
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "mayonnaises": [
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "mayos": [
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "mcchicken": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "peanuts",
+        "tree nuts",
+        "soy",
+        "fish",
+        "shellfish",
+        "mustard",
+        "sesame",
+        "lupine",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "meat": [
+        "vegan",
+        "vegetarian"
+    ],
+    "meatball": [
+        "vegan",
+        "vegetarian"
+    ],
+    "meatballs": [
+        "vegan",
+        "vegetarian"
+    ],
+    "meats": [
+        "vegan",
+        "vegetarian"
+    ],
+    "meringue": [
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "meringues": [
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "milano": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "milk": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "milkfish": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "milks": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "milo": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "peanuts",
+        "tree nuts",
+        "soy",
+        "fish",
+        "shellfish",
+        "mustard",
+        "sesame",
+        "lupine",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "minestrone": [
+        "gluten",
+        "wheat"
+    ],
+    "miso": [
+        "soy"
+    ],
+    "monkfish": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "moose": [
+        "vegan",
+        "vegetarian"
+    ],
+    "mores": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "mortadella": [
+        "vegan",
+        "vegetarian"
+    ],
+    "mostaccioli": [
+        "gluten",
+        "wheat"
+    ],
+    "mostaciolli": [
+        "gluten",
+        "wheat"
+    ],
+    "mound": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "mounds": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "mozarella": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "mozzarella": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "mozzarellas": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "mozzerella": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "muenster": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "muesli": [
+        "gluten",
+        "wheat",
+        "tree nuts"
+    ],
+    "muffin": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "muffins": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "mullet": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "munster": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "mussel": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "mussels": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "mustard": [
+        "mustard"
+    ],
+    "mustards": [
+        "mustard"
+    ],
+    "mutton": [
+        "vegan",
+        "vegetarian"
+    ],
+    "naan": [
+        "gluten",
+        "wheat"
+    ],
+    "naans": [
+        "gluten",
+        "wheat"
+    ],
+    "nachos": [
+        "gluten",
+        "wheat"
+    ],
+    "nandu": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "natto": [
+        "soy"
+    ],
+    "nduja": [
+        "vegan",
+        "vegetarian"
+    ],
+    "neufchatel": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "ney": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "nilla": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "noodle": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "vegan"
+    ],
+    "noodles": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "vegan"
+    ],
+    "nugget": [
+        "gluten",
+        "wheat",
+        "vegan",
+        "vegetarian"
+    ],
+    "nuggets": [
+        "gluten",
+        "wheat",
+        "vegan",
+        "vegetarian"
+    ],
+    "nut": [
+        "peanuts",
+        "tree nuts"
+    ],
+    "nutella": [
+        "dairy",
+        "milk",
+        "tree nuts",
+        "vegan"
+    ],
+    "nuts": [
+        "peanuts",
+        "tree nuts"
+    ],
+    "nuts*": [
+        "peanuts",
+        "tree nuts"
+    ],
+    "octopi": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "octopus": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "okara": [
+        "soy"
+    ],
+    "omelet": [
+        "vegan"
+    ],
+    "omelette": [
+        "vegan"
+    ],
+    "ono": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "orecchiette": [
+        "gluten",
+        "wheat"
+    ],
+    "oreo": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "oreos": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "orzo": [
+        "gluten",
+        "wheat"
+    ],
+    "ostrich": [
+        "vegan",
+        "vegetarian"
+    ],
+    "ovaltine": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "peanuts",
+        "tree nuts",
+        "soy",
+        "fish",
+        "shellfish",
+        "mustard",
+        "sesame",
+        "lupine",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "oxtail": [
+        "vegan",
+        "vegetarian"
+    ],
+    "oxtails": [
+        "vegan",
+        "vegetarian"
+    ],
+    "oyster": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "oysters": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "paccheri": [
+        "gluten",
+        "wheat"
+    ],
+    "pam": [
+        "soy"
+    ],
+    "pancake": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "pancakes": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "pancetta": [
+        "vegan",
+        "vegetarian"
+    ],
+    "paneer": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "panela": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "panettone": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "panko": [
+        "gluten",
+        "wheat"
+    ],
+    "pao": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "pappardelle": [
+        "gluten",
+        "wheat"
+    ],
+    "parantha": [
+        "gluten",
+        "wheat"
+    ],
+    "parata": [
+        "gluten",
+        "wheat"
+    ],
+    "paratha": [
+        "gluten",
+        "wheat"
+    ],
+    "parmesan": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "parmesans": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "parmigiano": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "parmigiano*": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "passatelli": [
+        "gluten",
+        "wheat"
+    ],
+    "pasta": [
+        "gluten",
+        "wheat"
+    ],
+    "pastas": [
+        "gluten",
+        "wheat"
+    ],
+    "pastina": [
+        "gluten",
+        "wheat"
+    ],
+    "pastrami": [
+        "vegan",
+        "vegetarian"
+    ],
+    "pastries": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "pastry": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "pate": [
+        "vegan",
+        "vegetarian"
+    ],
+    "pates": [
+        "vegan",
+        "vegetarian"
+    ],
+    "pav": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "paya": [
+        "vegan",
+        "vegetarian"
+    ],
+    "peanuts": [
+        "peanuts"
+    ],
+    "peanutss": [
+        "peanuts"
+    ],
+    "pecan": [
+        "tree nuts"
+    ],
+    "pecans": [
+        "tree nuts"
+    ],
+    "pecans*vegan": [
+        "tree nuts"
+    ],
+    "pecorino": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "peep": [
+        "vegan",
+        "vegetarian"
+    ],
+    "penne": [
+        "gluten",
+        "wheat"
+    ],
+    "pennette": [
+        "gluten",
+        "wheat"
+    ],
+    "pennoni": [
+        "gluten",
+        "wheat"
+    ],
+    "pepperjack": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "pepperoni": [
+        "vegan",
+        "vegetarian"
+    ],
+    "pepperonis": [
+        "vegan",
+        "vegetarian"
+    ],
+    "perch": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "perciatelli": [
+        "gluten",
+        "wheat"
+    ],
+    "pesta": [
+        "tree nuts"
+    ],
+    "pesto": [
+        "milk",
+        "tree nuts",
+        "vegan"
+    ],
+    "pestos": [
+        "milk",
+        "tree nuts",
+        "vegan"
+    ],
+    "pheasant": [
+        "vegan",
+        "vegetarian"
+    ],
+    "phulka": [
+        "gluten",
+        "wheat"
+    ],
+    "phyllo": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "pici": [
+        "gluten",
+        "wheat"
+    ],
+    "pickerel": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "pierogi": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "pierogis": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "pig": [
+        "vegan",
+        "vegetarian"
+    ],
+    "piglets": [
+        "vegan",
+        "vegetarian"
+    ],
+    "pignoli": [
+        "tree nuts"
+    ],
+    "pignolis": [
+        "tree nuts"
+    ],
+    "pigs": [
+        "vegan",
+        "vegetarian"
+    ],
+    "pike": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "pikes": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "pillus": [
+        "gluten",
+        "wheat"
+    ],
+    "pinenut": [
+        "tree nuts"
+    ],
+    "pinenuts": [
+        "tree nuts"
+    ],
+    "pinon": [
+        "tree nuts"
+    ],
+    "pipe": [
+        "gluten",
+        "wheat"
+    ],
+    "pipes": [
+        "gluten",
+        "wheat"
+    ],
+    "pista": [
+        "tree nuts"
+    ],
+    "pistachio": [
+        "tree nuts"
+    ],
+    "pistachios": [
+        "tree nuts"
+    ],
+    "pita": [
+        "gluten",
+        "wheat"
+    ],
+    "pitas": [
+        "gluten",
+        "wheat"
+    ],
+    "pizza": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "pizzas": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "pizzoccheri": [
+        "gluten",
+        "wheat"
+    ],
+    "plaice": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "poilane": [
+        "gluten",
+        "wheat"
+    ],
+    "poli": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "pollack": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "pollock": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "peanuts",
+        "tree nuts",
+        "soy",
+        "fish",
+        "shellfish",
+        "mustard",
+        "sesame",
+        "lupine",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "pomfret": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "pompano": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "ponzu": [
+        "gluten",
+        "wheat",
+        "soy"
+    ],
+    "poori": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "pooris": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "porgy": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "pork": [
+        "vegan",
+        "vegetarian"
+    ],
+    "porks": [
+        "vegan",
+        "vegetarian"
+    ],
+    "porter": [
+        "gluten",
+        "wheat"
+    ],
+    "porters": [
+        "gluten",
+        "wheat"
+    ],
+    "prawn": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "prawns": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "pretzel": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "pretzels": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "prosciutto": [
+        "vegan",
+        "vegetarian"
+    ],
+    "prosciuttos": [
+        "vegan",
+        "vegetarian"
+    ],
+    "provolone": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "provolones": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "pumpernickel": [
+        "gluten",
+        "wheat"
+    ],
+    "puri": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "puris": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "quadrefiore": [
+        "gluten",
+        "wheat"
+    ],
+    "quadrettini": [
+        "gluten",
+        "wheat"
+    ],
+    "quahog": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "quahogs": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "quail": [
+        "vegan",
+        "vegetarian"
+    ],
+    "quails": [
+        "vegan",
+        "vegetarian"
+    ],
+    "quark": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "quesadilla": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan",
+        "vegetarian"
+    ],
+    "quesadillas": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan",
+        "vegetarian"
+    ],
+    "queso": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "quesos": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "rabbit": [
+        "vegan",
+        "vegetarian"
+    ],
+    "rabbits": [
+        "vegan",
+        "vegetarian"
+    ],
+    "radiatore": [
+        "gluten",
+        "wheat"
+    ],
+    "radiatori": [
+        "gluten",
+        "wheat"
+    ],
+    "rai": [
+        "mustard"
+    ],
+    "raita": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "ralston": [
+        "gluten",
+        "wheat"
+    ],
+    "ramen": [
+        "gluten",
+        "wheat"
+    ],
+    "rava": [
+        "gluten",
+        "wheat"
+    ],
+    "rave": [
+        "gluten",
+        "wheat"
+    ],
+    "raves": [
+        "gluten",
+        "wheat"
+    ],
+    "ravioli": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "raviolis": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "rawa": [
+        "gluten",
+        "wheat"
+    ],
+    "reese's": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "soy",
+        "vegan"
+    ],
+    "relish": [
+        "mustard"
+    ],
+    "relishes": [
+        "mustard"
+    ],
+    "reshteh": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "rib": [
+        "vegan",
+        "vegetarian"
+    ],
+    "ribeye": [
+        "vegan",
+        "vegetarian"
+    ],
+    "ribeyes": [
+        "vegan",
+        "vegetarian"
+    ],
+    "riblet": [
+        "vegan",
+        "vegetarian"
+    ],
+    "riblets": [
+        "vegan",
+        "vegetarian"
+    ],
+    "ribs": [
+        "vegan",
+        "vegetarian"
+    ],
+    "ricciolini": [
+        "gluten",
+        "wheat"
+    ],
+    "ricciutelle": [
+        "gluten",
+        "wheat"
+    ],
+    "ricotta": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "rigatoncini": [
+        "gluten",
+        "wheat"
+    ],
+    "rigatoni": [
+        "gluten",
+        "wheat"
+    ],
+    "risi": [
+        "gluten",
+        "wheat"
+    ],
+    "roaster": [
+        "vegan",
+        "vegetarian"
+    ],
+    "roasters": [
+        "vegan",
+        "vegetarian"
+    ],
+    "rockfish": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "roe": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "roll": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "rolls": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "rolo": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "romanesco": [
+        "wheat"
+    ],
+    "romano": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "romanos": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "roquefort": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "rotelle": [
+        "gluten",
+        "wheat"
+    ],
+    "roti": [
+        "gluten",
+        "wheat"
+    ],
+    "rotini": [
+        "gluten",
+        "wheat"
+    ],
+    "rotis": [
+        "gluten",
+        "wheat"
+    ],
+    "rye": [
+        "gluten"
+    ],
+    "sable": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "sablefish": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "sables": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "sagnarelli": [
+        "gluten",
+        "wheat"
+    ],
+    "salami": [
+        "vegan",
+        "vegetarian"
+    ],
+    "salamis": [
+        "vegan",
+        "vegetarian"
+    ],
+    "salmon": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "salmons": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "saltine": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "saltines": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "samoas": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "sardine": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "peanuts",
+        "tree nuts",
+        "soy",
+        "fish",
+        "shellfish",
+        "mustard",
+        "sesame",
+        "lupine",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "sardines": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "peanuts",
+        "tree nuts",
+        "soy",
+        "fish",
+        "shellfish",
+        "mustard",
+        "sesame",
+        "lupine",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "saury": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "sausage": [
+        "vegan",
+        "vegetarian"
+    ],
+    "sausages": [
+        "vegan",
+        "vegetarian"
+    ],
+    "scallop": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "scallops": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "schmaltz": [
+        "vegan",
+        "vegetarian"
+    ],
+    "scialatelli": [
+        "gluten",
+        "wheat"
+    ],
+    "scilatielli": [
+        "gluten",
+        "wheat"
+    ],
+    "scone": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "scones": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "scrod": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "scup": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "seabass": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "seatrout": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "seitan": [
+        "gluten",
+        "wheat"
+    ],
+    "semolina": [
+        "gluten",
+        "wheat"
+    ],
+    "sesame": [
+        "sesame"
+    ],
+    "sesames": [
+        "sesame"
+    ],
+    "shad": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "shark": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "sharks": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "sheephead": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "sheepshead": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "shell": [
+        "gluten",
+        "wheat"
+    ],
+    "shells": [
+        "gluten",
+        "wheat"
+    ],
+    "sherbet": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "sherbets": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "shortbread": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "shortbreads": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "shortcake": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "shortcakes": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "shortrib": [
+        "vegan",
+        "vegetarian"
+    ],
+    "shortribs": [
+        "vegan",
+        "vegetarian"
+    ],
+    "shoyu": [
+        "gluten",
+        "wheat",
+        "soy"
+    ],
+    "shrimp": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "shrimp*": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "shrimps": [
+        "shellfish",
+        "vegan",
+        "vegetarian"
+    ],
+    "sirloin": [
+        "vegan",
+        "vegetarian"
+    ],
+    "sirloins": [
+        "vegan",
+        "vegetarian"
+    ],
+    "skate": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "smelt": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "smelts": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "snail": [
+        "fish",
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "snails": [
+        "fish",
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "snails*": [
+        "fish",
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "snapper": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "snappers": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "snicker": [
+        "dairy",
+        "eggs",
+        "milk",
+        "peanuts",
+        "soy",
+        "vegan"
+    ],
+    "snickers": [
+        "dairy",
+        "eggs",
+        "milk",
+        "peanuts",
+        "soy",
+        "vegan"
+    ],
+    "sofrito": [
+        "gluten",
+        "wheat",
+        "vegan",
+        "vegetarian"
+    ],
+    "sole": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "soles": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "somen": [
+        "gluten",
+        "wheat"
+    ],
+    "sooji": [
+        "gluten",
+        "wheat"
+    ],
+    "sopressata": [
+        "vegan",
+        "vegetarian"
+    ],
+    "sorbet": [
+        "milk"
+    ],
+    "sorbets": [
+        "milk"
+    ],
+    "sourdough": [
+        "gluten",
+        "wheat"
+    ],
+    "soy": [
+        "gluten",
+        "wheat",
+        "soy"
+    ],
+    "soya": [
+        "gluten",
+        "wheat",
+        "soy"
+    ],
+    "soybean": [
+        "soy"
+    ],
+    "soybeans": [
+        "soy"
+    ],
+    "soymilk": [
+        "soy"
+    ],
+    "spaghetti": [
+        "gluten",
+        "wheat"
+    ],
+    "spaghettini": [
+        "gluten",
+        "wheat"
+    ],
+    "spaghettio": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "soy",
+        "vegan",
+        "vegetarian"
+    ],
+    "spaghettis": [
+        "gluten",
+        "wheat"
+    ],
+    "spaghettoni": [
+        "gluten",
+        "wheat"
+    ],
+    "spam": [
+        "vegan",
+        "vegetarian"
+    ],
+    "sparerib": [
+        "vegan",
+        "vegetarian"
+    ],
+    "spareribs": [
+        "vegan",
+        "vegetarian"
+    ],
+    "spatzle": [
+        "gluten",
+        "wheat"
+    ],
+    "speck": [
+        "vegan",
+        "vegetarian"
+    ],
+    "spelt": [
+        "gluten",
+        "wheat"
+    ],
+    "spigola": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "spirali": [
+        "gluten",
+        "wheat"
+    ],
+    "spiralini": [
+        "gluten",
+        "wheat"
+    ],
+    "squab": [
+        "vegan",
+        "vegetarian"
+    ],
+    "squid": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "squids": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "squirrel": [
+        "vegan",
+        "vegetarian"
+    ],
+    "squirrels": [
+        "vegan",
+        "vegetarian"
+    ],
+    "starburst": [
+        "vegan"
+    ],
+    "steak": [
+        "vegan",
+        "vegetarian"
+    ],
+    "steak*": [
+        "vegan",
+        "vegetarian"
+    ],
+    "steak*topped": [
+        "vegan",
+        "vegetarian"
+    ],
+    "steaks": [
+        "vegan",
+        "vegetarian"
+    ],
+    "steamer": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "steamers": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "steelhead": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "steelheads": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "stelle": [
+        "gluten",
+        "wheat"
+    ],
+    "stelline": [
+        "gluten",
+        "wheat"
+    ],
+    "stilton": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "stock": [
+        "vegan",
+        "vegetarian"
+    ],
+    "stockfish": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "stocks": [
+        "vegan",
+        "vegetarian"
+    ],
+    "stones": [
+        "shellfish",
+        "mollusk",
+        "vegan",
+        "vegetarian"
+    ],
+    "stortini": [
+        "gluten",
+        "wheat"
+    ],
+    "stout": [
+        "gluten",
+        "wheat"
+    ],
+    "stouts": [
+        "gluten",
+        "wheat"
+    ],
+    "stringozzi": [
+        "gluten",
+        "wheat"
+    ],
+    "striploin": [
+        "vegan",
+        "vegetarian"
+    ],
+    "strozzapreti": [
+        "gluten",
+        "wheat"
+    ],
+    "stuffing": [
+        "gluten",
+        "wheat"
+    ],
+    "stuffings": [
+        "gluten",
+        "wheat"
+    ],
+    "sturgeon": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "suet": [
+        "vegan",
+        "vegetarian"
+    ],
+    "suji": [
+        "gluten",
+        "wheat"
+    ],
+    "sundae": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "sundaes": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "surimi": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "swai": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "sweetbread": [
+        "vegan",
+        "vegetarian"
+    ],
+    "sweetbreads": [
+        "vegan",
+        "vegetarian"
+    ],
+    "swiss": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "swordfish": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "taco": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "tacos": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "taffy": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "tagliatelle": [
+        "gluten",
+        "wheat"
+    ],
+    "taglierini": [
+        "gluten",
+        "wheat"
+    ],
+    "talapia": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "taleggsio": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "tamari": [
+        "soy"
+    ],
+    "tarhana": [
+        "gluten",
+        "wheat"
+    ],
+    "tel": [
+        "soy"
+    ],
+    "tempeh": [
+        "soy"
+    ],
+    "tenderloin": [
+        "vegan",
+        "vegetarian"
+    ],
+    "tenderloins": [
+        "vegan",
+        "vegetarian"
+    ],
+    "thayir": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "thickener": [
+        "gluten",
+        "wheat"
+    ],
+    "thigh": [
+        "vegan",
+        "vegetarian"
+    ],
+    "thighs": [
+        "vegan",
+        "vegetarian"
+    ],
+    "til": [
+        "sesame"
+    ],
+    "tilapia": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "tilapias": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "tilefish": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "tils": [
+        "sesame"
+    ],
+    "toast": [
+        "gluten",
+        "wheat"
+    ],
+    "toasts": [
+        "gluten",
+        "wheat"
+    ],
+    "toffee": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "tofu": [
+        "soy"
+    ],
+    "tofus": [
+        "soy"
+    ],
+    "tofutti": [
+        "vegan"
+    ],
+    "tomatoes*chicken": [
+        "vegan",
+        "vegetarian"
+    ],
+    "torchio": [
+        "gluten",
+        "wheat"
+    ],
+    "torte": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "tortellini": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "tortelloni": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "tortes": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "tortiglioni": [
+        "gluten",
+        "wheat"
+    ],
+    "tostada": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "tostadas": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "trenette": [
+        "gluten",
+        "wheat"
+    ],
+    "trenne": [
+        "gluten",
+        "wheat"
+    ],
+    "trennette": [
+        "gluten",
+        "wheat"
+    ],
+    "tripe": [
+        "vegan",
+        "vegetarian"
+    ],
+    "tripes": [
+        "vegan",
+        "vegetarian"
+    ],
+    "tripoline": [
+        "gluten",
+        "wheat"
+    ],
+    "triticale": [
+        "gluten",
+        "wheat"
+    ],
+    "trofie": [
+        "gluten",
+        "wheat"
+    ],
+    "trotter": [
+        "vegan",
+        "vegetarian"
+    ],
+    "trotters": [
+        "vegan",
+        "vegetarian"
+    ],
+    "trout": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "tubettini": [
+        "gluten",
+        "wheat"
+    ],
+    "tuffoli": [
+        "gluten",
+        "wheat"
+    ],
+    "tuna": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "turbot": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "turkey": [
+        "vegan",
+        "vegetarian"
+    ],
+    "turkeys": [
+        "vegan",
+        "vegetarian"
+    ],
+    "tvp": [
+        "gluten",
+        "wheat"
+    ],
+    "twinkie": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "soy",
+        "vegan"
+    ],
+    "twinkies": [
+        "gluten",
+        "wheat",
+        "eggs",
+        "soy",
+        "vegan"
+    ],
+    "twix": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan"
+    ],
+    "twizzler": [
+        "gluten",
+        "wheat"
+    ],
+    "udon": [
+        "gluten",
+        "wheat"
+    ],
+    "veal": [
+        "vegan",
+        "vegetarian"
+    ],
+    "veals": [
+        "vegan",
+        "vegetarian"
+    ],
+    "velveeta": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "venison": [
+        "vegan",
+        "vegetarian"
+    ],
+    "vermicelli": [
+        "gluten",
+        "wheat"
+    ],
+    "vermicelloni": [
+        "gluten",
+        "wheat"
+    ],
+    "wafer": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "wafers": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "waffle": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "waffles": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "eggs",
+        "milk",
+        "vegan"
+    ],
+    "wahoo": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "walleye": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "walnut": [
+        "tree nuts"
+    ],
+    "walnuts": [
+        "tree nuts"
+    ],
+    "walnuts'": [
+        "tree nuts"
+    ],
+    "wheat": [
+        "gluten",
+        "wheat"
+    ],
+    "wheatberry": [
+        "gluten",
+        "wheat"
+    ],
+    "whitefish": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "whiting": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "whopper": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan",
+        "vegetarian"
+    ],
+    "whoppers": [
+        "dairy",
+        "gluten",
+        "wheat",
+        "milk",
+        "vegan",
+        "vegetarian"
+    ],
+    "wingettes": [
+        "vegan",
+        "vegetarian"
+    ],
+    "worcestershire": [
+        "gluten",
+        "wheat",
+        "fish",
+        "vegan"
+    ],
+    "wrap": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "wrapper": [
+        "wheat",
+        "eggs"
+    ],
+    "wrappers": [
+        "wheat",
+        "eggs"
+    ],
+    "wraps": [
+        "gluten",
+        "wheat",
+        "vegan"
+    ],
+    "yellowtail": [
+        "fish",
+        "vegan",
+        "vegetarian"
+    ],
+    "yoghurt": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "yogurt": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "yogurts": [
+        "dairy",
+        "milk",
+        "vegan"
+    ],
+    "ziti": [
+        "gluten",
+        "wheat"
+    ],
+    "zitoni": [
+        "gluten",
+        "wheat"
+    ]
+}
