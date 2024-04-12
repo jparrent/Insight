@@ -4,7 +4,7 @@ Within this repo are the files for my Insight project, [LettuceEats](http://www.
 
 ## Background
 
-LettuceEats is a test web application designed to take the research out of going out to eat when you or someone in your party has either food allergies or food restrictions, e.g., tree nuts. Users can search by category, specify vegan, vegetarian, etc, or supply a string of other food items to avoid. LettuceEats then returns a currated list of recommended restaurants that are ranked by the number of acceptable menu items. 
+LettuceEats is a test web application designed to take the research out of going out to eat when you or someone in your party has either food allergies or food restrictions, e.g., tree nuts. Users can search by category, specify vegan, vegetarian, etc, or supply a string of other food items to avoid. LettuceEats then returns a curated list of recommended restaurants that are ranked by the number of acceptable menu items. 
 
 For example, say you are either allergic to avocado, or simply wish to avoid it, in this case a search for 'avocado' would need to catch items such as guacamole, particularly when avocado is not mentioned in that menu. The motive behind LettuceEats is thus to enable free-text searching using Natural Language Processing (NLP).
 
